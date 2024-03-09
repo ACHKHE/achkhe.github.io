@@ -4,7 +4,7 @@ title: Achraf Khelifi touhami
 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Achraf
@@ -31,7 +31,7 @@ bio: My research interests include distributed GNC,MBD.jhkjhkjhkjjkjcxsbckjqsbck
 # Interests to show in About widget
 interests:
   - GNC (Guidance ,navigation and control)
-  - MBD (Model based design)
+  - MBD&T (Model based design and testing)
   - MBT (Model based testing)
 
 # Education to show in About widget
@@ -87,7 +87,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: hhttps://twitter.com/ACHKHE
+    link: https://twitter.com/ACHKHE
     label: Follow me on Twitter
     display:
       header: true
