@@ -52,7 +52,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 40
         icon: python
         icon_pack: fab
       - name: Simulink
@@ -109,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-achraf is a professor of artificial intelligence at FAU
+achraf is a Research associate in control engineering at FAU
 {style="text-align: justify;"}

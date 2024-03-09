@@ -1,6 +1,6 @@
 ---
-title: Welcome to Hugo Blox Builder, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: How to Become a Flight Control Engineer
+subtitle: Welcome 👋 detailed roadmap.
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -30,7 +30,6 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
   - Academic
@@ -43,7 +42,7 @@ categories:
 
 ```python
 import libr
-print('hello')
+printf('hello koko')
 ```
 
 ## Overview
@@ -108,3 +107,17 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
+
+## Understanding the Role
+
+Flight control engineers are responsible for the design, development, and maintenance of flight control systems that govern an aircraft's motion and stability. These systems include autopilots, fly-by-wire systems, and other control mechanisms that regulate the aircraft's attitude, altitude, and speed. Flight control engineers work closely with aerospace engineers, pilots, and aviation authorities to ensure that aircraft meet safety standards and performance requirements.
+
+![png](Rocket.png)
+
+## Educational Requirements
+
+The journey to becoming a flight control engineer typically starts with a solid educational foundation. Most employers prefer candidates with a bachelor's degree in aerospace engineering, mechanical engineering, or a related field. During their undergraduate studies, aspiring flight control engineers should focus on coursework that covers fundamental principles such as control systems, dynamics, aerodynamics, and aircraft structures.
+
+## Additional Resources
+
+American Institute of Aeronautics and Astronautics (AIAA) [AIAA](https://www.aiaa.org/).
